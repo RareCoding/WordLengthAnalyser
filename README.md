@@ -12,9 +12,12 @@ A simple, interactive Python script that analyzes a `.txt` file containing words
 
 ## 🛠️ How to Use
 
-1. Clone this repository or download the script:
-
+In CMD (Windows)
 ```bash
-git clone https://github.com/your-username/LongestWordFinder.git
+curl -O https://raw.githubusercontent.com/RareCoding/WordLengthAnalyser/main/Main.py
+```
 
-cd LongestWordFinder
+Then Run
+```bash
+python Main.py
+```
