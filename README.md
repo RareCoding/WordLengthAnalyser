@@ -10,9 +10,10 @@ A simple, interactive Python script that analyzes a `.txt` file containing words
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ How to download
 
-In CMD (Windows)
+Either download it from Releases or copy this into CMD
+
 ```bash
 curl -O https://raw.githubusercontent.com/RareCoding/WordLengthAnalyser/main/Main.py
 ```
