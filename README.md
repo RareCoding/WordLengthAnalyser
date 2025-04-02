@@ -3,10 +3,10 @@
 
 # 📚 LongestWordFinder
 
-A simple, interactive Python script that analyzes a `.txt` file containing words (one per line) and helps you:
+A really efficient scirpt that analyses a huge `.txt` file containing words (one per line) and helps you:
 
+- 📊 Orders the words from longest to shortest
 - 🔍 Find the longest word in the file
-- 📊 Display all words from longest to shortest
 - 🧭 Query a specific word by its length rank
 
 ---
