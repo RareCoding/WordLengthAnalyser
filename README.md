@@ -1,4 +1,5 @@
 # WordLengthAnalyser
+![WordLengthAnalyser Demo](https://github.com/RareCoding/WordLengthAnalyser/raw/main/assets/iRPe9qbGkr.png)
 
 # 📚 LongestWordFinder
 
